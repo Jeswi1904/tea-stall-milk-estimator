@@ -1,0 +1,26 @@
+order_id,timestamp,tea_type,cups_ordered,milk_used_ml,price_per_cup_inr,total_amount_inr,payment_method,customer_group_size
+1,16:03,Cutting Chai,2,145,12,24,UPI,2
+2,16:08,Special Ginger,1,85,15,15,Cash,1
+3,16:14,Masala Chai,3,230,15,45,UPI,3
+4,16:19,Cutting Chai,1,70,12,12,Cash,1
+5,16:22,Cardamom Chai,2,160,15,30,UPI,2
+6,16:27,Cutting Chai,4,290,12,48,UPI,4
+7,16:33,Special Ginger,2,175,15,30,Cash,2
+8,16:39,Cutting Chai,1,75,12,12,Cash,1
+9,16:44,Masala Chai,2,155,15,30,UPI,2
+10,16:48,Cutting Chai,3,215,12,36,UPI,3
+11,16:53,Special Ginger,1,80,15,15,UPI,1
+12,16:58,Cardamom Chai,2,165,15,30,Cash,2
+13,17:04,Cutting Chai,5,360,12,60,UPI,5
+14,17:09,Masala Chai,4,310,15,60,UPI,4
+15,17:16,Cutting Chai,3,225,12,36,Cash,3
+16,17:22,Special Ginger,3,250,15,45,UPI,3
+17,17:28,Cutting Chai,6,430,12,72,UPI,6
+18,17:34,Cardamom Chai,2,160,15,30,UPI,2
+19,17:41,Masala Chai,3,235,15,45,Cash,3
+20,17:47,Cutting Chai,4,295,12,48,UPI,4
+21,17:53,Special Ginger,2,170,15,30,UPI,2
+22,17:59,Cutting Chai,5,370,12,60,Cash,5
+23,18:07,Masala Chai,2,155,15,30,UPI,2
+24,18:14,Cutting Chai,1,75,12,12,UPI,1
+25,18:22,Special Ginger,2,165,15,30,Cash,2
